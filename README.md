@@ -1,4 +1,3 @@
-@"
 # Python Week 2 Assignment
 
 This project demonstrates basic Python list operations:
@@ -8,5 +7,4 @@ This project demonstrates basic Python list operations:
 - Removing the last element
 - Sorting the list
 - Finding the index of an element
-"@ > README.md
 
